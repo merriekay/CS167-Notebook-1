@@ -31,7 +31,7 @@ The first step is to get the data loaded and ready to go, make sure the data is 
 3. Using `fire_flying_pokemon`, what is the median **Attack** of Fire Flying Pokemon?
 4. Create a subset with only pokemon from Generation I. Include 5 columns, the `Generation`, `Name`, `Type 1`, `Type 2`, and `Total`. 
   - *For an extra challenge, see if you can do this in one line.*
-5. Which primary type of pokemon is the overall strongest? (not looking for philsophical debates here, I'm looking at the average of the 'Total' column, grouped by Type--so Fire v Water v Grass etc.). 
+5. Which primary type of pokemon is the overall strongest? (not looking for philsophical debates here, I'm looking at the average of the 'Total' column, [grouped by](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html) Type--so Fire v Water v Grass etc.). 
 6. Do something cool. Using the Pokemon dataset, get creative and show me something about the dataset. Use a text cell to explain what you did. 
  - *Need some help gettting started here? Try asking a question about the dataset and see if you can use Python and Pandas to answer the question*
 
