@@ -2,7 +2,7 @@
 
 <b>Due</b>: Thursday, September 9th, 2021 by 11:59 pm
 
-To submit this notebook, please copy and paste the URL from this page to the Blackboard assignment before the due date.
+To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
 
 ## The Data
 For this notebook, we're going to enter the world of Pokemon.
