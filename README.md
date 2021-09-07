@@ -1,6 +1,6 @@
 # Notebook #1: Python, Pandas, and Pokemon, Oh My!
 
-<b>Due</b>: Thursday, September 9th, 2021 by 11:59 pm
+<b>Due</b>: Thursday, September 14th, 2021 by 11:59 pm
 
 To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
 
