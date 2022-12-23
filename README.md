@@ -1,6 +1,6 @@
 # Notebook #1: Python, Pandas, and Pokemon, Oh My!
 
-<b>Due</b>: Thursday, September 14th, 2021 by 11:59 pm
+<b>Due</b>: Thursday, January 5th, 2023 before class
 
 To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
 
@@ -26,7 +26,7 @@ The first step is to get the data loaded and ready to go, make sure the data is 
 ## What you need to do :exclamation:
 <b>Notebook #1 consists of the following exercises</b> [ 1 point each ]:
 1. Print out all of the possible values for the `Type 1` of pokemon. 
-  - *Hint: I'm looking for each possible primary type to be ouput once, not a list of primary type of each pokemon. For example, if I tossed a coin 3 times and got Heads, Tails, Heads, the possible values of the coin flip are Heads and Tails. There is a function for this.*
+  > *Hint: I'm looking for each possible primary type to be ouput once, not a list of primary type of each pokemon. For example, if I tossed a coin 3 times and got Heads, Tails, Heads, the possible values of the coin flip are Heads and Tails. There is a function for this.*
 2. Create a subset of data representing pokemon whose primary type is **Fire** 🔥, and the second type is **Flying** 🦅. Save this DataFrame to the variable name `fire_flying_pokemon`. Display the first 5 lines of this subset.
 3. Using `fire_flying_pokemon`, what is the median **Attack** of Fire Flying Pokemon?
 4. Create a subset with only pokemon from Generation I. Include 5 columns, the `Generation`, `Name`, `Type 1`, `Type 2`, and `Total`. 
