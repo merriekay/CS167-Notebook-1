@@ -5,7 +5,10 @@
 To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
 
 I've provided some starter code for you. Before you go any further, click on the `notebook1_starter.ipynb` link in the repository, and then, at the top of the notebook, you will see a button that says `Open in Colab`. Click on this and it will open the starter code in Google Colaboratory.
-> __warning__: changes are not saved automatically in Colab. It is a good idea to go to __File--> Save a Copy in Drive__ option when you make a significant change.  
+
+> __warning__: changes are not saved automatically in Colab. It is a good idea to go to __File--> Save a Copy in Drive__ and/or __File --> 'Save a Copy in GitHub'__ option when you make a significant change.  
+- If you choose __Save a copy in Drive__, it will save to your Google Drive, however, if you choose __'Save a Copy in Github__, it will automatically updated your Github respository.
+- You will submit your notebook using the __File-->Save a Copy in Github__ option, but I recommend you save your progress to GitHub incrementally rather than pushing your code to GitHub right before the deadline.
 
 ## The Data
 For this notebook, we're going to enter the world of Pokemon.
