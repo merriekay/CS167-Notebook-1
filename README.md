@@ -4,7 +4,7 @@
 
 ## How this is going to work: 
 
-To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
+To submit this notebook, please copy and paste the URL from this page (it should look something like: https://github.com/j23-cs167/notebook-1-YourGithubNameHere) to the Blackboard assignment before the due date.
 
 I've provided some starter code for you. Before you go any further, click on the `notebook1_starter.ipynb` link in the repository, and then, at the top of the notebook, you will see a button that says `Open in Colab`. Click on this and it will open the starter code in Google Colaboratory.
 
