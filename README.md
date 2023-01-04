@@ -1,6 +1,6 @@
 # Notebook #1: Python, Pandas, and Pokemon, Oh My!
 
-<b>Due</b>: Thursday, January 5th, 2023 before class
+<b>Due</b>: Thursday, January 5th, 2023  by 11:59 pm
 
 ## How this is going to work: 
 
