@@ -1,6 +1,6 @@
 # Notebook #1: Python, Pandas, and Pokemon, Oh My!
 
-<b>Due</b>: Thursday, January 5th, 2023  by 11:59 pm
+<b>Due</b>: Tuesday, February 7th, 2023
 
 ## How this is going to work: 
 
@@ -48,12 +48,15 @@ Use a Markup cell to put your name at the top of the file. Submit this assignmen
 ## :white_check_mark: Grading: 
 I will update the following rubric with your grade after you have completed the assignment.
 ### Rubric:
+
+>I'm going to write in 1's for the Points awarded, but will update when I grade if there's something that was missed
+
 | Exercise #  | Points Awarded (out of 1)  | Notes |
 | --------- | ------------------- | --------- |
-| 1: type          |        |    |
-| 2: fire_flying   |        |    | 
-| 3: Attack        |        |    |
-| 4: Gen 1         |        |    | 
-| 5: Strongest Type|        |    |
-| 6: Something cool|        |    |
+| 1: type          |    1    |    |
+| 2: fire_flying   |    1    |    | 
+| 3: Attack        |    1    |    |
+| 4: Gen 1         |    1    |    | 
+| 5: Strongest Type|    1    |    |
+| 6: Something cool|    1    |    |
 | <b>Total         |     /6 |     </b>   |
